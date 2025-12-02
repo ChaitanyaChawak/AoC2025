@@ -1,4 +1,4 @@
-input = '/home/chai/AOC2025/inputs/day01.txt'
+input = '/home/chai/Documents/AoC2025/inputs/day01.txt'
 
 with open(input, 'r') as file:
   input_lines = [line.strip() for line in file]
